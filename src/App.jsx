@@ -1,4 +1,4 @@
-import Board from "./components/board.jsx";
+import Board from "./components/Board.jsx";
 
 export default function App() {
   return (
